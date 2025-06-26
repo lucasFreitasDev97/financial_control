@@ -15,7 +15,6 @@
                                 @endforeach
                             </select>
                         </div>
-
                         <div class="mb-3">
                             <label for="year" class="form-label">Ano</label>
                             <input type="number" class="form-control" id="year" name="year" required>
