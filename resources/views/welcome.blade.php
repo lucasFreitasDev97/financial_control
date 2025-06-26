@@ -4,7 +4,7 @@
         <div class="col-md-6 col-lg-5">
             <div class="card shadow">
                 <div class="card-body">
-                    <h4 class="card-title text-center mb-4">Filtrar Lançamentos</h4>
+                    <h4 class="card-title text-center mb-4">Filtrar Transações</h4>
                     <form action="#" method="GET">
                         <div class="mb-3">
                             <label for="mes" class="form-label">Mês</label>
@@ -47,9 +47,12 @@
                 </div>
             </div>
         </div>
-
     </div>
+
     <div class="container">
+        <div style="text-align: center">
+            <h2>Resultados - Mês / Ano</h2>
+        </div>
         <table class="table table-bordered table-sm">
             <thead>
             <tr>
